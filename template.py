@@ -42,7 +42,7 @@ for filepath in list_of_files:
             logging.info(f'creating empty file: {filepath}')
             
     else:
-        logging.info(f'{filename} is already exists')
+        logging.info(f'{filename} already exists')
         
 
 
