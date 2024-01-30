@@ -10,3 +10,6 @@ Using Hugging face to build and deploy a text summarizer
 6. Update the pipeline
 7. Update main.py
 8. Update app.py 
+
+
+### Not Complete
